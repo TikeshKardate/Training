@@ -11,7 +11,7 @@ int b=sc.nextInt();
 System.out.println ("Enter Name of the Operation:");
 char operation = sc.next().charAt(0);
 
-double result;
+double result=0;
 
 if (operation == '+');
 {
