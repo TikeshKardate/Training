@@ -17,7 +17,7 @@ if (operation == '+');
 {
 result = a + b;
 }
-else System.out.println("Error");
+else System.out.println("Error found");
 System.out.println (result);
 
 
