@@ -12,14 +12,16 @@ System.out.println ("Enter Name of the Operation:");
 char operation = sc.next().charAt(0);
 
 double result=0;
-
 if (operation == '+');
 {
 result = a + b;
-}
-else System.out.println("Error found");
+}else {
+  System.out.println("Error found");
 System.out.println (result);
+}
 
+
+System.out.println (result);
 
 
 }
